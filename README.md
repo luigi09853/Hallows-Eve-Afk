@@ -29,8 +29,8 @@ BEFORE YOU RUN IT
 
 
 HOW TO RUN
-  Open the folder, click the address bar, type  cmd  and press Enter.
-  Then type one of the commands below and press Enter.
+Open the folder, click the address bar, type  cmd  and press Enter.
+Then type one of the commands below and press Enter.
 
   Normal use:
     python afk_hallows_eve.py                  Everything: Hallow's Eve + Selene + rebirth
